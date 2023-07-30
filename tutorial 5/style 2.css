@@ -1,0 +1,58 @@
+body{
+    background-image:url("ase.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+table{
+    background-color:hsl(211, 57%, 13%);
+    color: hsl(48, 54%, 47%);
+    height: 550px;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+h1{
+    
+    padding: 5px;
+    background-color: hsla(48, 80%, 37%, 0.78);
+    color:#ffffffac;
+    text-align: center;
+}
+.bt
+{
+    background-color: #10ba10;
+    height: 35px;
+    width: 60px;
+}
+.bt2
+{
+    background-color:#a41616;
+    height: 35px;
+    width: 60px;
+}
+th, td {
+    border: 1px;
+    padding: 8px;
+}
+button {
+    border: 1px;
+    padding: 10px;
+    cursor: pointer;
+    background-color: hsl(48, 92%, 25%);
+  }
+.card{
+    background-color: hsl(48, 88%, 35%);
+    padding: 5px;
+    background-color: hsl(0, 87%, 27%);
+    width: 300px;
+    height: 200px;
+  }
+  .box {
+     padding: 5px;
+    background-color: hsl(48, 86%, 34%);
+    border: 1px solid ;
+  }
